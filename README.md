@@ -19,4 +19,3 @@ To make the build catalog available through github pages, please go to:
 Once enabled you can navigate to the catalog using:
 
 https://\<organization\>.github.io/\<repository\>/\<catalog_name\>/catalog.json
-
