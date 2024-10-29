@@ -7,8 +7,7 @@
   protocol: 'xyz'
 - id: overlay_bright2
   name: 'Overlay labels2'
-  url: 'https://server1.landimage.info/geoserver/gwc/service/wmts'
-  attribution: '{ Overlay: Data &copy; <a href="http://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href="//eox.at" target="_blank">EOX</a> }'
+  url: 'https://server1.landimage.info/geoserver/gwc/service/wmts/crs=EPSG:900913&dpiMode=7&format=image/png&layers=GTIFBaltic:master&styles=GTIFBaltic_master&tileMatrixSet=EPSG:900913&url=https://server1.landimage.info/geoserver/gwc/service/wmts'
   visible: true
   maxNativeZoom: 14
   protocol: 'xyz'
