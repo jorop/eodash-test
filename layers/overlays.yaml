@@ -5,3 +5,10 @@
   visible: true
   maxNativeZoom: 14
   protocol: 'xyz'
+- id: overlay_bright2
+  name: 'Overlay labels2'
+  url: 'https://server1.landimage.info/geoserver/GTIFBaltic/wms?service=WMS&version=1.1.0&request=GetMap&layers=GTIFBaltic%3Amaster&bbox=316456.6097%2C5973895.3999%2C680085.9042%2C6257175.1803&width=768&height=598&srs=EPSG%3A3346&styles=&format=application/openlayers'
+  attribution: '{ Overlay: Data &copy; <a href="http://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href="//eox.at" target="_blank">EOX</a> }'
+  visible: true
+  maxNativeZoom: 14
+  protocol: 'xyz'
