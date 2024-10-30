@@ -17,7 +17,7 @@ DataSource:
 Agency:
   - Example agency
 Resources:
-  - EndPoint: https://server1.landimage.info/geoserver/GTIFBaltic/wms?service=WMS&version=1.1.0&request=GetMap&layers=GTIFBaltic%3Amaster&bbox=316456.6097%2C5973895.3999%2C680085.9042%2C6257175.1803&width=768&height=598&srs=EPSG%3A3346&styles=&format=image%2Fpng
-    Name: WMTS
+  - EndPoint: https://server1.landimage.info/geoserver/gwc/demo/GTIFBaltic:master?gridSet=EPSG:900913&format=image/png
+    Name: WMS
     LayerId: gm-master-test
     MediaType: image/png
