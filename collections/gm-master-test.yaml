@@ -17,7 +17,7 @@ DataSource:
 Agency:
   - Example agency
 Resources:
-  - EndPoint: https://server1.landimage.info/geoserver/gwc/demo/GTIFBaltic:master?gridSet=EPSG:900913&format=image/png
-    Name: WMS
-    Database: eodash
-    CollectionId: GGI_N2O
+  - EndPoint: https://server1.landimage.info/geoserver/gwc/service/wmts
+    Name: GeoDB Vector Tiles
+    Database: sagris
+    CollectionId: gm-master-test
