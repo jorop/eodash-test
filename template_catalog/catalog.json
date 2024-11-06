@@ -63,6 +63,33 @@
       }
     },
     {
+      "rel": "child",
+      "href": "./example_collection/collection.json",
+      "type": "application/json",
+      "title": "Example Collection",
+      "code": "EX1",
+      "id": "example_collection",
+      "themes": [
+        "example"
+      ],
+      "subcode": "EX1",
+      "satellite": [
+        "Satellitename"
+      ],
+      "sensor": [
+        "Sensorname"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
       "rel": "self",
       "href": "https://organization.github.io/repository/repository/catalog.json",
       "type": "application/json"

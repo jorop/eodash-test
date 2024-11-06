@@ -1,0 +1,77 @@
+{
+  "type": "Collection",
+  "id": "example_collection",
+  "stac_version": "1.0.0",
+  "description": "This can be **markdown** or a reference to a markdown file",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Baltics"
+    },
+    {
+      "rel": "wmts",
+      "href": "https://server1.landimage.info/geoserver/gwc/service/wmts",
+      "type": "image/png",
+      "title": "wmts capabilities",
+      "wmts:layer": "GTIFBaltic:master",
+      "role": [
+        "data"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./example_collection/1970/e1d90121-edc3-460b-94c8-2d1cd5622892.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Example Collection"
+    }
+  ],
+  "themes": [
+    "example"
+  ],
+  "tags": [
+    "example tag"
+  ],
+  "agency": [
+    "Example agency"
+  ],
+  "subcode": "EX1",
+  "sensor": [
+    "Sensorname"
+  ],
+  "satellite": [
+    "Satellitename"
+  ],
+  "insituSources": [
+    "Other insitu data"
+  ],
+  "endpointtype": "marinedatastore_WMTSCapabilities",
+  "title": "Example Collection",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2024-11-06T10:28:17.144604Z",
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}
