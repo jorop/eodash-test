@@ -11,18 +11,23 @@
       "title": "GTIF Baltics"
     },
     {
-      "rel": "wmts",
-      "href": "https://server1.landimage.info/geoserver/gwc/service/wmts",
+      "rel": "wms",
+      "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
       "type": "image/png",
-      "title": "wmts capabilities",
-      "wmts:layer": "GTIFBaltic:master",
+      "title": "parcels_lt",
+      "wms:layers": [
+        "GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3"
+      ],
       "role": [
         "data"
+      ],
+      "wms:styles": [
+        ""
       ]
     },
     {
       "rel": "item",
-      "href": "./parcels_lt/1970/d39d563b-d4bb-45be-a0f9-6b81339ae77b.json",
+      "href": "./parcels_lt/1970/1c3c7275-34a5-4a6d-98eb-d5f19cbbc8ae.json",
       "type": "application/json"
     },
     {
@@ -51,7 +56,7 @@
   "insituSources": [
     "Other insitu data"
   ],
-  "endpointtype": "marinedatastore_WMTSCapabilities",
+  "endpointtype": "WMS_OverwriteTimes",
   "title": "parcels_lt",
   "extent": {
     "spatial": {
@@ -67,8 +72,8 @@
     "temporal": {
       "interval": [
         [
-          "2024-11-06T11:03:51.312669Z",
-          null
+          "2024-04-01T00:00:00Z",
+          "2024-04-01T00:00:00Z"
         ]
       ]
     }
