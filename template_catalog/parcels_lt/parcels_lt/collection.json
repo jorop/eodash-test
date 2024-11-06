@@ -1,6 +1,6 @@
 {
   "type": "Collection",
-  "id": "example_collection",
+  "id": "parcels_lt",
   "stac_version": "1.0.0",
   "description": "This can be **markdown** or a reference to a markdown file",
   "links": [
@@ -22,14 +22,14 @@
     },
     {
       "rel": "item",
-      "href": "./example_collection/1970/64b69b77-0589-43a4-a28d-14763ac2d054.json",
+      "href": "./parcels_lt/1970/d39d563b-d4bb-45be-a0f9-6b81339ae77b.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "Example Collection"
+      "title": "parcels_lt"
     }
   ],
   "themes": [
@@ -52,7 +52,7 @@
     "Other insitu data"
   ],
   "endpointtype": "marinedatastore_WMTSCapabilities",
-  "title": "Example Collection",
+  "title": "parcels_lt",
   "extent": {
     "spatial": {
       "bbox": [
@@ -67,7 +67,7 @@
     "temporal": {
       "interval": [
         [
-          "2024-11-06T11:03:14.224728Z",
+          "2024-11-06T11:03:51.312669Z",
           null
         ]
       ]

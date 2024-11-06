@@ -64,11 +64,11 @@
     },
     {
       "rel": "child",
-      "href": "./example_collection/collection.json",
+      "href": "./parcels_lt/collection.json",
       "type": "application/json",
-      "title": "Example Collection",
+      "title": "parcels_lt",
       "code": "EX1",
-      "id": "example_collection",
+      "id": "parcels_lt",
       "themes": [
         "example"
       ],
