@@ -11,6 +11,12 @@
       "title": "GTIF Baltics"
     },
     {
+      "rel": "item",
+      "href": "./parcels_lt/2024/2024-01-01T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-01-01T00:00:00Z"
+    },
+    {
       "rel": "wms",
       "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
       "type": "image/png",
@@ -24,11 +30,6 @@
       "wms:styles": [
         ""
       ]
-    },
-    {
-      "rel": "item",
-      "href": "./parcels_lt/1970/7287a31e-052b-4b1d-bd7e-818eaa2939be.json",
-      "type": "application/json"
     },
     {
       "rel": "parent",
@@ -62,10 +63,10 @@
     "spatial": {
       "bbox": [
         [
-          -180.0,
-          -90.0,
-          180.0,
-          90.0
+          20,
+          53,
+          27,
+          57
         ]
       ]
     },
