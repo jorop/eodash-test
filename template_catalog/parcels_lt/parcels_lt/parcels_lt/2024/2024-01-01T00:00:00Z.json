@@ -25,9 +25,9 @@
         "TIME": "2024-01-01T00:00:00Z"
       },
       "wms:styles": [
-        ""
+        "sagris_soil_moisture_q1"
       ],
-      "proj:epsg": 4326
+      "proj:epsg": 3857
     },
     {
       "rel": "root",
@@ -50,5 +50,5 @@
   ],
   "assets": {},
   "collection": "parcels_lt",
-  "proj:epsg": 4326
+  "proj:epsg": 3857
 }
