@@ -29,7 +29,8 @@
       ],
       "wms:styles": [
         ""
-      ]
+      ],
+      "proj:epsg": 4326
     },
     {
       "rel": "parent",
@@ -57,20 +58,17 @@
   "insituSources": [
     "Other insitu data"
   ],
-  "eodash:mapProjection": {
-    "name": "EPSG:3035",
-    "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-  },
+  "proj:epsg": 4326,
   "endpointtype": "WMS_OverwriteTimes",
   "title": "parcels_lt",
   "extent": {
     "spatial": {
       "bbox": [
         [
-          20,
-          53,
-          27,
-          57
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
         ]
       ]
     },
