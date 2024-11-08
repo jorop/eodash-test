@@ -26,8 +26,7 @@
       },
       "wms:styles": [
         ""
-      ],
-      "proj:epsg": 3857
+      ]
     },
     {
       "rel": "root",
@@ -49,6 +48,5 @@
     }
   ],
   "assets": {},
-  "collection": "parcels_lt",
-  "proj:epsg": 3857
+  "collection": "parcels_lt"
 }
