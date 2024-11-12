@@ -28,7 +28,7 @@
         "sagris_soil_moisture_q1"
       ],
       "wms:tilesize": 256,
-      "wms:version": "1.1.0",
+      "wms:version": "1.1.1",
       "proj:epsg": 3857
     },
     {
