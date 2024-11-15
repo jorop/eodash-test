@@ -12,65 +12,34 @@
     },
     {
       "rel": "child",
-      "href": "./flooding/collection.json",
+      "href": "./lithuania/collection.json",
       "type": "application/json",
-      "title": "Flooding",
-      "code": "flooding",
-      "id": "flooding",
-      "subcode": "flooding"
-    },
-    {
-      "rel": "child",
-      "href": "./Lodging Lithuania/collection.json",
-      "type": "application/json",
-      "title": "Lodging Lithuania",
-      "code": "lodging_capability_lit",
-      "id": "Lodging Lithuania",
-      "subcode": "lodging_capability_lit",
-      "eodash:mapProjection": {
-        "name": "EPSG:3035",
-        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-      }
-    },
-    {
-      "rel": "child",
-      "href": "./Logging Lithuania/collection.json",
-      "type": "application/json",
-      "title": "Logging Lithuania",
-      "code": "logging_capability_lit",
-      "id": "Logging Lithuania",
-      "subcode": "logging_capability_lit",
-      "eodash:mapProjection": {
-        "name": "EPSG:3035",
-        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-      }
-    },
-    {
-      "rel": "child",
-      "href": "./parcels_lt/collection.json",
-      "type": "application/json",
-      "title": "parcels_lt",
-      "code": "EX1",
-      "id": "parcels_lt",
+      "title": "lithuania",
+      "code": "lithuania",
+      "id": "lithuania",
+      "subcode": "lithuania",
       "themes": [
         "example"
       ],
-      "subcode": "EX1",
       "satellite": [
         "Satellitename"
       ],
       "sensor": [
         "Sensorname"
-      ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "insituSources": [
-        "Other insitu data"
       ]
+    },
+    {
+      "rel": "child",
+      "href": "./Flooding Austria/collection.json",
+      "type": "application/json",
+      "title": "Flooding Austria",
+      "code": "flooding_capability_aut",
+      "id": "Flooding Austria",
+      "subcode": "flooding_capability_aut",
+      "eodash:mapProjection": {
+        "name": "EPSG:3035",
+        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+      }
     },
     {
       "rel": "self",

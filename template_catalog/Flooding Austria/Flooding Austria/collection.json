@@ -1,8 +1,8 @@
 {
   "type": "Collection",
-  "id": "Lodging Lithuania",
+  "id": "Flooding Austria",
   "stac_version": "1.0.0",
-  "description": "",
+  "description": "##Interesting title",
   "links": [
     {
       "rel": "root",
@@ -12,29 +12,29 @@
     },
     {
       "rel": "item",
-      "href": "./Lodging Lithuania/2024/2024-07-15T00:00:00Z.json",
+      "href": "./Flooding Austria/2024/2024-09-11T00:00:00Z.json",
       "type": "application/json",
-      "datetime": "2024-07-15T00:00:00Z",
+      "datetime": "2024-09-11T00:00:00Z",
       "assets": [
-        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/LIT_2024_07_MIV_lodging_cog.tif"
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/AT_2024_09_d2_flooding_4564656_2742407_cog.tif"
       ]
     },
     {
       "rel": "style",
-      "href": "https://api.npoint.io/4fbe20aaf94ff44a33ec",
+      "href": "https://api.npoint.io/85c43058073e5051f880",
       "type": "text/cog-styles",
       "asset:keys": [
-        "source image"
+        "AT d2"
       ]
     },
     {
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "Lodging Lithuania"
+      "title": "Flooding Austria"
     }
   ],
-  "subcode": "lodging_capability_lit",
+  "subcode": "flooding_capability_aut",
   "eodash:mapProjection": {
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
@@ -44,23 +44,23 @@
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
   },
   "endpointtype": "COG source",
-  "title": "Lodging Lithuania",
+  "title": "Flooding Austria",
   "extent": {
     "spatial": {
       "bbox": [
         [
-          22.64524,
-          54.94676,
-          23.02416,
-          55.30585
+          9.415283,
+          46.346928,
+          17.094727,
+          49.016257
         ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "2024-07-15T00:00:00Z",
-          "2024-07-15T00:00:00Z"
+          "2024-09-11T00:00:00Z",
+          "2024-09-11T00:00:00Z"
         ]
       ]
     }
