@@ -157,10 +157,10 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "EX1",
-      "lodging_capability_lit",
+      "flooding_capability",
       "logging_capability_lit",
-      "flooding_capability"
+      "lodging_capability_lit",
+      "EX1"
     ],
     "themes": [
       "example"
