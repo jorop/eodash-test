@@ -1,8 +1,8 @@
 {
   "type": "Collection",
-  "id": "Flooding Austria",
+  "id": "parcels_lt",
   "stac_version": "1.0.0",
-  "description": "##Interesting title",
+  "description": "This can be **markdown** or a reference to a markdown file",
   "links": [
     {
       "rel": "root",
@@ -12,20 +12,31 @@
     },
     {
       "rel": "child",
-      "href": "./Flooding Austria/collection.json",
+      "href": "./parcels_lt/collection.json",
       "type": "application/json",
-      "title": "Flooding Austria",
-      "endpointtype": "COG source",
-      "code": "flooding_capability_aut",
-      "id": "Flooding Austria",
+      "title": "parcels_lt",
+      "endpointtype": "WMS_OverwriteTimes",
+      "code": "EX1",
+      "id": "parcels_lt",
       "themes": [
         "water"
       ],
-      "subcode": "flooding_capability_aut",
-      "eodash:mapProjection": {
-        "name": "EPSG:3035",
-        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-      }
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "subcode": "EX1",
+      "sensor": [
+        "Sensorname"
+      ],
+      "satellite": [
+        "Satellitename"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
     },
     {
       "rel": "xyz",
@@ -58,34 +69,45 @@
   "themes": [
     "water"
   ],
-  "subcode": "flooding_capability_aut",
-  "eodash:mapProjection": {
-    "name": "EPSG:3035",
-    "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-  },
-  "title": "Flooding Austria",
+  "tags": [
+    "example tag"
+  ],
+  "agency": [
+    "Example agency"
+  ],
+  "subcode": "EX1",
+  "sensor": [
+    "Sensorname"
+  ],
+  "satellite": [
+    "Satellitename"
+  ],
+  "insituSources": [
+    "Other insitu data"
+  ],
+  "title": "parcels_lt",
   "extent": {
     "spatial": {
       "bbox": [
         [
-          9.415283,
-          46.346928,
-          17.094727,
-          49.016257
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
         ],
         [
-          9.415283,
-          46.346928,
-          17.094727,
-          49.016257
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
         ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "2024-09-11T00:00:00Z",
-          "2024-09-11T00:00:00Z"
+          "2024-04-01T00:00:00Z",
+          "2024-04-01T00:00:00Z"
         ]
       ]
     }
@@ -93,10 +115,16 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "flooding_capability_aut"
+      "EX1"
     ],
     "themes": [
       "water"
+    ],
+    "satellite": [
+      "Satellitename"
+    ],
+    "sensor": [
+      "Sensorname"
     ]
   }
 }

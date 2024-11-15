@@ -12,34 +12,94 @@
     },
     {
       "rel": "child",
-      "href": "./lithuania/collection.json",
-      "type": "application/json",
-      "title": "lithuania",
-      "code": "lithuania",
-      "id": "lithuania",
-      "subcode": "lithuania",
-      "themes": [
-        "example"
-      ],
-      "satellite": [
-        "Satellitename"
-      ],
-      "sensor": [
-        "Sensorname"
-      ]
-    },
-    {
-      "rel": "child",
       "href": "./Flooding Austria/collection.json",
       "type": "application/json",
       "title": "Flooding Austria",
       "code": "flooding_capability_aut",
       "id": "Flooding Austria",
+      "themes": [
+        "water"
+      ],
       "subcode": "flooding_capability_aut",
       "eodash:mapProjection": {
         "name": "EPSG:3035",
         "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
       }
+    },
+    {
+      "rel": "child",
+      "href": "./Flooding Lithuania/collection.json",
+      "type": "application/json",
+      "title": "Flooding Lithuania",
+      "code": "flooding_capability",
+      "id": "Flooding Lithuania",
+      "themes": [
+        "water"
+      ],
+      "subcode": "flooding_capability",
+      "eodash:mapProjection": {
+        "name": "EPSG:3035",
+        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+      }
+    },
+    {
+      "rel": "child",
+      "href": "./Lodging Lithuania/collection.json",
+      "type": "application/json",
+      "title": "Lodging Lithuania",
+      "code": "lodging_capability_lit",
+      "id": "Lodging Lithuania",
+      "themes": [
+        "settlements"
+      ],
+      "subcode": "lodging_capability_lit",
+      "eodash:mapProjection": {
+        "name": "EPSG:3035",
+        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+      }
+    },
+    {
+      "rel": "child",
+      "href": "./Logging Lithuania/collection.json",
+      "type": "application/json",
+      "title": "Logging Lithuania",
+      "code": "logging_capability_lit",
+      "id": "Logging Lithuania",
+      "themes": [
+        "forest"
+      ],
+      "subcode": "logging_capability_lit",
+      "eodash:mapProjection": {
+        "name": "EPSG:3035",
+        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+      }
+    },
+    {
+      "rel": "child",
+      "href": "./parcels_lt/collection.json",
+      "type": "application/json",
+      "title": "parcels_lt",
+      "code": "EX1",
+      "id": "parcels_lt",
+      "themes": [
+        "water"
+      ],
+      "subcode": "EX1",
+      "satellite": [
+        "Satellitename"
+      ],
+      "sensor": [
+        "Sensorname"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
     },
     {
       "rel": "self",

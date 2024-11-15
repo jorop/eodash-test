@@ -38,11 +38,11 @@
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "lithuania"
+      "title": "parcels_lt"
     }
   ],
   "themes": [
-    "example"
+    "water"
   ],
   "tags": [
     "example tag"
