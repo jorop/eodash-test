@@ -12,8 +12,12 @@
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture Lithuania/1970/e9010c60-87ec-4969-abf4-0fe8b72483e6.json",
-      "type": "application/json"
+      "href": "./Soil Moisture Lithuania/2024/2024-04-01T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-01T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-logging/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
     },
     {
       "rel": "parent",
@@ -40,10 +44,10 @@
     "spatial": {
       "bbox": [
         [
-          -180.0,
-          -90.0,
-          180.0,
-          90.0
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
         ]
       ]
     },
@@ -51,7 +55,7 @@
       "interval": [
         [
           "2024-04-01T00:00:00Z",
-          "2024-04-30T00:00:00Z"
+          "2024-04-01T00:00:00Z"
         ]
       ]
     }
