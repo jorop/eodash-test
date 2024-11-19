@@ -11,7 +11,7 @@ Resources:
   - Name: COG source  
     Bbox: [22.64524,54.94676,23.02416,55.30585]
     TimeEntries:
-      - Time: "202404"
+      - Time: "2024-04"
         Assets:
           - Identifier: "medium"
             File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-logging/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif
