@@ -16,7 +16,7 @@
       "type": "application/json",
       "datetime": "2024-04-01T00:00:00Z",
       "assets": [
-        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-logging/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
       ]
     },
     {

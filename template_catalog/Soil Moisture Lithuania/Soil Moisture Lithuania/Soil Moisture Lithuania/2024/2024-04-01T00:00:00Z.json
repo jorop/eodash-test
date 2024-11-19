@@ -70,7 +70,7 @@
   ],
   "assets": {
     "medium": {
-      "href": "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-logging/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif",
+      "href": "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif",
       "type": "image/tiff",
       "eodash:proj4_def": {
         "name": "EPSG:3035",
