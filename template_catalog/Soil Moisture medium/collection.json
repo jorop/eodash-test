@@ -1,8 +1,8 @@
 {
   "type": "Collection",
-  "id": "Soil Moisture 04 Lithuania medium",
+  "id": "Soil Moisture medium",
   "stac_version": "1.0.0",
-  "description": "lithuania indicator medium",
+  "description": "##Interesting title",
   "links": [
     {
       "rel": "root",
@@ -22,34 +22,6 @@
         "water"
       ],
       "subcode": "sm_medium_lt"
-    },
-    {
-      "rel": "child",
-      "href": "./Soil Moisture medium - parcels/collection.json",
-      "type": "application/json",
-      "title": "Soil Moisture medium - parcels",
-      "endpointtype": "WMS_OverwriteTimes",
-      "code": "EX1",
-      "id": "Soil Moisture medium - parcels",
-      "themes": [
-        "water"
-      ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "subcode": "EX1",
-      "sensor": [
-        "Sensorname"
-      ],
-      "satellite": [
-        "Satellitename"
-      ],
-      "insituSources": [
-        "Other insitu data"
-      ]
     },
     {
       "rel": "xyz",
@@ -79,12 +51,11 @@
       "title": "GTIF Baltics"
     }
   ],
-  "subcode": "sm_04_lt_medium",
-  "eodash:mapProjection": {
-    "name": "EPSG:3035",
-    "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-  },
-  "title": "Soil Moisture 04 Lithuania medium",
+  "themes": [
+    "water"
+  ],
+  "subcode": "sm_medium_lt",
+  "title": "Soil Moisture medium",
   "extent": {
     "spatial": {
       "bbox": [
@@ -99,20 +70,14 @@
           -85,
           180,
           85
-        ],
-        [
-          -180.0,
-          -90.0,
-          180.0,
-          90.0
         ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "1970-01-01T00:00:00Z",
-          "2024-11-20T11:30:58.922438Z"
+          "2024-04-01T00:00:00Z",
+          "2024-04-30T00:00:00Z"
         ]
       ]
     }
@@ -120,17 +85,10 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_medium_lt",
-      "EX1"
+      "sm_medium_lt"
     ],
     "themes": [
       "water"
-    ],
-    "satellite": [
-      "Satellitename"
-    ],
-    "sensor": [
-      "Sensorname"
     ]
   }
 }
