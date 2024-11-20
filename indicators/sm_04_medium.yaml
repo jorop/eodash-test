@@ -1,0 +1,7 @@
+Name: "Soil Moisture 04 lithuania medium"
+Title: "Soil Moisture 04 lithuania medium"
+EodashIdentifier: "sm_04_lt_medium"
+Description: "lithuania indicator medium"
+Collections:
+  - gm-sm_lt_medium
+  - parcels_wms_04_lt_medium
