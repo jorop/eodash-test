@@ -120,8 +120,8 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_medium_lt",
-      "EX1"
+      "EX1",
+      "sm_medium_lt"
     ],
     "themes": [
       "water"
