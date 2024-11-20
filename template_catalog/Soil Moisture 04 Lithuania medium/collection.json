@@ -79,7 +79,7 @@
       "title": "GTIF Baltics"
     }
   ],
-  "subcode": "sm_04_lt_medium",
+  "subcode": "sm_lt_04_medium",
   "eodash:mapProjection": {
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
@@ -112,7 +112,7 @@
       "interval": [
         [
           "1970-01-01T00:00:00Z",
-          "2024-11-20T12:02:07.958593Z"
+          "2024-11-20T12:06:15.392789Z"
         ]
       ]
     }
