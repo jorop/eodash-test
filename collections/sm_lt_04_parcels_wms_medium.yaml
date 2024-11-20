@@ -1,6 +1,6 @@
 Name: Soil Moisture medium - parcels
 Title: Soil Moisture medium - parcels
-EodashIdentifier: sm_04_lt_wms_medium
+EodashIdentifier: EX1
 Description: This can be **markdown** or a reference to a markdown file
 Themes:
   - water
@@ -23,7 +23,7 @@ Resources:
     Type: OverwriteTimes
     MediaType: image/png
     Styles: ["sagris_soil_moisture_q2"]
-    LayerId: GTIFBaltic:LIT_2024_SM_m06_q1_q2_q3
+    LayerId: GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3
     TileSize: 256
     Version: "1.1.1"
     DateTimeInterval:
