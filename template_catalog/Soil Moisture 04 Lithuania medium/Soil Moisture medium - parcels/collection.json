@@ -16,7 +16,7 @@
       "type": "image/png",
       "title": "Soil Moisture medium - parcels",
       "wms:layers": [
-        "GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3"
+        "GTIFBaltic:LIT_2024_SM_m06_q1_q2_q3"
       ],
       "role": [
         "data"
@@ -30,7 +30,7 @@
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture medium - parcels/1970/3e4e4582-0cb6-4d32-b107-66cad3321da9.json",
+      "href": "./Soil Moisture medium - parcels/1970/c381f992-e637-4e90-9073-49f237856fcd.json",
       "type": "application/json"
     },
     {
