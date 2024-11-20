@@ -16,12 +16,12 @@
       "type": "application/json",
       "title": "Soil Moisture medium",
       "endpointtype": "COG source",
-      "code": "sm_medium_lt",
+      "code": "sm_04_lt_raster_medium",
       "id": "Soil Moisture medium",
       "themes": [
         "water"
       ],
-      "subcode": "sm_medium_lt"
+      "subcode": "sm_04_lt_raster_medium"
     },
     {
       "rel": "child",
@@ -112,7 +112,7 @@
       "interval": [
         [
           "1970-01-01T00:00:00Z",
-          "2024-11-20T11:49:31.891991Z"
+          "2024-11-20T11:52:42.902140Z"
         ]
       ]
     }
@@ -121,7 +121,7 @@
   "summaries": {
     "subcode": [
       "EX1",
-      "sm_medium_lt"
+      "sm_04_lt_raster_medium"
     ],
     "themes": [
       "water"

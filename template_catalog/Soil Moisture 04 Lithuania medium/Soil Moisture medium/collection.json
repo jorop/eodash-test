@@ -298,7 +298,7 @@
   "themes": [
     "water"
   ],
-  "subcode": "sm_medium_lt",
+  "subcode": "sm_04_lt_raster_medium",
   "proj:epsg": 3035,
   "endpointtype": "COG source",
   "title": "Soil Moisture medium",
