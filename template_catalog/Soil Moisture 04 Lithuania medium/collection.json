@@ -29,7 +29,7 @@
       "type": "application/json",
       "title": "Soil Moisture medium - parcels",
       "endpointtype": "WMS_OverwriteTimes",
-      "code": "EX1",
+      "code": "sm_lt_04_parcels_wms_medium",
       "id": "Soil Moisture medium - parcels",
       "themes": [
         "water"
@@ -40,7 +40,7 @@
       "agency": [
         "Example agency"
       ],
-      "subcode": "EX1",
+      "subcode": "sm_lt_04_parcels_wms_medium",
       "sensor": [
         "Sensorname"
       ],
@@ -112,7 +112,7 @@
       "interval": [
         [
           "1970-01-01T00:00:00Z",
-          "2024-11-20T12:06:15.392789Z"
+          "2024-11-20T12:11:51.831355Z"
         ]
       ]
     }
@@ -120,8 +120,8 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_04_lt_raster_medium",
-      "EX1"
+      "sm_lt_04_parcels_wms_medium",
+      "sm_04_lt_raster_medium"
     ],
     "themes": [
       "water"
