@@ -1,6 +1,6 @@
 Name: Soil Moisture medium
 Title: Soil Moisture medium
-EodashIdentifier: sm_medium_lt
+EodashIdentifier: sm_04_lt_raster_medium
 Description: "##Interesting title"
 Themes:
   - water
