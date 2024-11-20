@@ -4,6 +4,9 @@ EodashIdentifier: flooding_capability
 Description: "https://gist.githubusercontent.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee/raw/83b8b4814c3417111b9b9bef86a552608506603e/markdown-sample.md"
 Themes:
   - water
+MapProjection:
+  name: 'EPSG:3035'
+  def: '+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs'
 Resources:
   - Name: COG source  
     Bbox: [22.64524,54.94676,23.02416,55.30585]
@@ -21,6 +24,3 @@ Resources:
         Assets:
           - Identifier: "LIT d3"
             File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d3_flooding_5125000_3625000_cog.tif
-    DataProjection:
-      name: 'EPSG:3035'
-      def: '+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs'
