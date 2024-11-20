@@ -76,11 +76,11 @@
     },
     {
       "rel": "child",
-      "href": "./Soil Moisture 04 lithuania medium/collection.json",
+      "href": "./Soil Moisture 04 Lithuania medium/collection.json",
       "type": "application/json",
-      "title": "Soil Moisture 04 lithuania medium",
+      "title": "Soil Moisture 04 Lithuania medium",
       "code": "sm_04_lt_medium",
-      "id": "Soil Moisture 04 lithuania medium",
+      "id": "Soil Moisture 04 Lithuania medium",
       "subcode": "sm_04_lt_medium",
       "themes": [
         "water"
