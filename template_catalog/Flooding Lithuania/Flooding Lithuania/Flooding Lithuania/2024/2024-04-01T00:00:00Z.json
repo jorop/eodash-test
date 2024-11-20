@@ -51,7 +51,7 @@
   "links": [
     {
       "rel": "style",
-      "href": "https://api.npoint.io/85c43058073e5051f880",
+      "href": "https://api.npoint.io/85c43058073e5051f880+",
       "type": "text/cog-styles",
       "asset:keys": [
         "LIT d1"
@@ -80,10 +80,12 @@
     "LIT d1": {
       "href": "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif",
       "type": "image/tiff",
+      "proj:epsg": 3035,
       "roles": [
         "data"
       ]
     }
   },
-  "collection": "Flooding Lithuania"
+  "collection": "Flooding Lithuania",
+  "proj:epsg": 3035
 }
