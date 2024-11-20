@@ -30,7 +30,7 @@
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture medium - parcels/1970/0d0eca0f-69e4-4cd7-884f-51f8de03c548.json",
+      "href": "./Soil Moisture medium - parcels/1970/3e4e4582-0cb6-4d32-b107-66cad3321da9.json",
       "type": "application/json"
     },
     {
@@ -49,7 +49,7 @@
   "agency": [
     "Example agency"
   ],
-  "subcode": "EX1",
+  "subcode": "sm_04_lt_wms_medium",
   "sensor": [
     "Sensorname"
   ],
