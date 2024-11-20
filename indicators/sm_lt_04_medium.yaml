@@ -1,6 +1,6 @@
 Name: "Soil Moisture 04 Lithuania medium"
 Title: "Soil Moisture 04 Lithuania medium"
-EodashIdentifier: "sm_04_lt_medium"
+EodashIdentifier: "sm_lt_04_medium"
 Description: "lithuania indicator medium"
 Bbox: [22.64524,54.94676,23.02416,55.30585]
 MapProjection:

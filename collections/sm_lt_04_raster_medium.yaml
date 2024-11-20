@@ -7,6 +7,7 @@ Themes:
 Resources:
   - Name: COG source
     Style: https://api.npoint.io/85c43058073e5051f880
+    DataProjection: 3035
     TimeEntries:
       - Time: "2024-04-01"
         Assets:
@@ -128,4 +129,3 @@ Resources:
         Assets:
           - Identifier: "30"
             File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif
-    DataProjection: 3035
