@@ -1,14 +1,31 @@
 {
   "type": "Collection",
-  "id": "parcels_lt",
+  "id": "Soil Moisture 04 lithuania medium",
   "stac_version": "1.0.0",
-  "description": "This can be **markdown** or a reference to a markdown file",
+  "description": "lithuania indicator medium",
   "links": [
     {
       "rel": "root",
       "href": "../catalog.json",
       "type": "application/json",
       "title": "GTIF Baltics"
+    },
+    {
+      "rel": "child",
+      "href": "./Soil Moisture medium Lithuania/collection.json",
+      "type": "application/json",
+      "title": "Soil Moisture medium Lithuania",
+      "endpointtype": "COG source",
+      "code": "sm_medium_lt",
+      "id": "Soil Moisture medium Lithuania",
+      "themes": [
+        "water"
+      ],
+      "subcode": "sm_medium_lt",
+      "eodash:mapProjection": {
+        "name": "EPSG:3035",
+        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+      }
     },
     {
       "rel": "child",
@@ -66,34 +83,22 @@
       "title": "GTIF Baltics"
     }
   ],
-  "themes": [
-    "water"
-  ],
-  "tags": [
-    "example tag"
-  ],
-  "agency": [
-    "Example agency"
-  ],
-  "subcode": "EX1",
-  "sensor": [
-    "Sensorname"
-  ],
-  "satellite": [
-    "Satellitename"
-  ],
-  "insituSources": [
-    "Other insitu data"
-  ],
-  "title": "parcels_lt",
+  "subcode": "sm_04_lt_medium",
+  "title": "Soil Moisture 04 lithuania medium",
   "extent": {
     "spatial": {
       "bbox": [
         [
-          22.64524,
-          54.94676,
+          9.415283,
+          46.346928,
           23.02416,
           55.30585
+        ],
+        [
+          9.415283,
+          46.346928,
+          17.094727,
+          49.016257
         ],
         [
           22.64524,
@@ -115,7 +120,8 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "EX1"
+      "EX1",
+      "sm_medium_lt"
     ],
     "themes": [
       "water"

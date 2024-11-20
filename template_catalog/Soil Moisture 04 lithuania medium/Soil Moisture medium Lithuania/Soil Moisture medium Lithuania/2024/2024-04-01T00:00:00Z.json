@@ -13,24 +13,24 @@
           "coordinates": [
             [
               [
-                22.64524,
-                54.94676
+                9.415283,
+                46.346928
               ],
               [
-                23.02416,
-                54.94676
+                17.094727,
+                46.346928
               ],
               [
-                23.02416,
-                55.30585
+                17.094727,
+                49.016257
               ],
               [
-                22.64524,
-                55.30585
+                9.415283,
+                49.016257
               ],
               [
-                22.64524,
-                54.94676
+                9.415283,
+                46.346928
               ]
             ]
           ]
@@ -40,16 +40,23 @@
     ]
   },
   "bbox": [
-    22.64524,
-    54.94676,
-    23.02416,
-    55.30585
+    9.415283,
+    46.346928,
+    17.094727,
+    49.016257
   ],
   "properties": {
-    "start_datetime": "2024-04-01T00:00:00Z",
-    "end_datetime": "2024-04-30T23:59:59Z"
-  ,
+    "datetime": "2024-04-01T00:00:00Z"
+  },
   "links": [
+    {
+      "rel": "style",
+      "href": "https://api.npoint.io/85c43058073e5051f880",
+      "type": "text/cog-styles",
+      "asset:keys": [
+        "01"
+      ]
+    },
     {
       "rel": "root",
       "href": "../../../../catalog.json",
@@ -60,17 +67,17 @@
       "rel": "collection",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "Soil Moisture Lithuania"
+      "title": "Soil Moisture medium Lithuania"
     },
     {
       "rel": "parent",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "Soil Moisture Lithuania"
+      "title": "Soil Moisture medium Lithuania"
     }
   ],
   "assets": {
-    "medium": {
+    "01": {
       "href": "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif",
       "type": "image/tiff",
       "eodash:proj4_def": {
@@ -82,7 +89,7 @@
       ]
     }
   },
-  "collection": "Soil Moisture Lithuania",
+  "collection": "Soil Moisture medium Lithuania",
   "eodash:proj4_def": {
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
