@@ -225,6 +225,7 @@
     "Example agency"
   ],
   "subcode": "sm_lt_04_parcels_wms_medium",
+  "collection_group": "Water",
   "sensor": [
     "Sensorname"
   ],

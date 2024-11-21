@@ -21,6 +21,7 @@
         "water"
       ],
       "subcode": "flooding_capability_aut",
+      "collection_group": "Water",
       "eodash:mapProjection": {
         "name": "EPSG:3035",
         "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
@@ -37,6 +38,7 @@
         "water"
       ],
       "subcode": "flooding_capability",
+      "collection_group": "Water",
       "eodash:mapProjection": {
         "name": "EPSG:3035",
         "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
@@ -50,9 +52,10 @@
       "code": "lodging_capability_lit",
       "id": "Lodging Lithuania",
       "themes": [
-        "settlements"
+        "Crops"
       ],
       "subcode": "lodging_capability_lit",
+      "collection_group": "Crops",
       "eodash:mapProjection": {
         "name": "EPSG:3035",
         "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
@@ -66,9 +69,10 @@
       "code": "logging_capability_lit",
       "id": "Logging Lithuania",
       "themes": [
-        "forest"
+        "Forest"
       ],
       "subcode": "logging_capability_lit",
+      "collection_group": "Forest",
       "eodash:mapProjection": {
         "name": "EPSG:3035",
         "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
@@ -91,6 +95,7 @@
       "sensor": [
         "Sensorname"
       ],
+      "collection_group": "Water",
       "eodash:mapProjection": {
         "name": "EPSG:3035",
         "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
@@ -107,6 +112,7 @@
         "Crops Lodging"
       ],
       "subcode": "ld_06_lt_raster",
+      "collection_group": "Crops",
       "eodash:mapProjection": {
         "name": "EPSG:3035",
         "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"

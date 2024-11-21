@@ -21,7 +21,8 @@
       "themes": [
         "water"
       ],
-      "subcode": "sm_04_lt_raster_medium"
+      "subcode": "sm_04_lt_raster_medium",
+      "collection_group": "Water"
     },
     {
       "rel": "child",
@@ -41,6 +42,7 @@
         "Example agency"
       ],
       "subcode": "sm_lt_04_parcels_wms_medium",
+      "collection_group": "Water",
       "sensor": [
         "Sensorname"
       ],
@@ -80,6 +82,7 @@
     }
   ],
   "subcode": "sm_lt_04_medium",
+  "collection_group": "Water",
   "eodash:mapProjection": {
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
