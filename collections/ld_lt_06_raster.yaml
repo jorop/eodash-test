@@ -15,7 +15,6 @@ Colorlegend:
   tickFormat: ".0f"
   tickValues: [30,100]
   scaletype: continuous
-  marktype: rect
 Resources:
   - Name: COG source
     Style: https://api.npoint.io/24b27d80708983a0298d
