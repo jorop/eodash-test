@@ -104,6 +104,7 @@
       "code": "ld_06_lt_raster",
       "id": "Lodging 06",
       "themes": [
+        "Forest",
         "Crops Lodging"
       ],
       "subcode": "ld_06_lt_raster",
