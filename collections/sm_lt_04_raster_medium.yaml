@@ -3,6 +3,8 @@ Title: Soil Moisture medium
 EodashIdentifier: sm_04_lt_raster_medium
 Description: "##Interesting title"
 CollectionGroup: Water
+Themes:
+  - Lithuania
 Resources:
   - Name: COG source
     Style: https://api.npoint.io/fb08ee1771db057e35c5
