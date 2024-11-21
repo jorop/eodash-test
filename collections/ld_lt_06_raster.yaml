@@ -4,7 +4,6 @@ Title: Lodging 06
 EodashIdentifier: ld_06_lt_raster
 Description: "##Interesting title"
 Themes:
-  - Forest
   - Crops Lodging
 MapProjection:
   name: 'EPSG:3035'
