@@ -78,8 +78,7 @@
       30,
       100
     ],
-    "scaletype": "continuous",
-    "marktype": "rect"
+    "scaletype": "continuous"
   },
   "title": "Lodging 06",
   "extent": {
