@@ -2,6 +2,7 @@ Name: Flooding Lithuania
 Title: Flooding Lithuania
 EodashIdentifier: flooding_capability
 Description: "fooding.md"
+CollectionGroup: Water
 Themes:
   - water
 MapProjection:

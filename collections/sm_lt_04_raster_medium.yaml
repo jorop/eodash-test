@@ -2,6 +2,7 @@ Name: Soil Moisture medium
 Title: Soil Moisture medium
 EodashIdentifier: sm_04_lt_raster_medium
 Description: "##Interesting title"
+CollectionGroup: Water
 Themes:
   - water
 Resources:

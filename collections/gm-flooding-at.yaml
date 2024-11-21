@@ -2,6 +2,7 @@ Name: Flooding Austria
 Title: Flooding Austria
 EodashIdentifier: flooding_capability_aut
 Description: "##Interesting title"
+CollectionGroup: Water
 Themes:
   - water
 MapProjection:
