@@ -1,0 +1,94 @@
+{
+  "type": "Collection",
+  "id": "Lodging 06",
+  "stac_version": "1.0.0",
+  "description": "##Interesting title",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Baltics"
+    },
+    {
+      "rel": "child",
+      "href": "./Lodging 06/collection.json",
+      "type": "application/json",
+      "title": "Lodging 06",
+      "endpointtype": "COG source",
+      "code": "ld_06_lt_raster",
+      "id": "Lodging 06",
+      "themes": [
+        "Crops Lodging"
+      ],
+      "subcode": "ld_06_lt_raster"
+    },
+    {
+      "rel": "xyz",
+      "href": "//tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2023_3857/default/g/{z}/{y}/{x}.jpeg",
+      "type": "image/jpeg",
+      "title": "EOxCloudless 2023",
+      "roles": [
+        "baselayer"
+      ],
+      "id": "cloudless-2023"
+    },
+    {
+      "rel": "xyz",
+      "href": "//tiles.maps.eox.at/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png",
+      "type": "image/png",
+      "title": "Overlay labels",
+      "roles": [
+        "overlay",
+        "visible"
+      ],
+      "id": "overlay_bright"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Baltics"
+    }
+  ],
+  "themes": [
+    "Crops Lodging"
+  ],
+  "subcode": "ld_06_lt_raster",
+  "title": "Lodging 06",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ],
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2024-04-07T00:00:00Z",
+          "2024-06-30T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "summaries": {
+    "subcode": [
+      "ld_06_lt_raster"
+    ],
+    "themes": [
+      "Crops Lodging"
+    ]
+  }
+}
