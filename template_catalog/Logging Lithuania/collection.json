@@ -18,6 +18,9 @@
       "endpointtype": "COG source",
       "code": "logging_capability_lit",
       "id": "Logging Lithuania",
+      "themes": [
+        "Lithuania"
+      ],
       "subcode": "logging_capability_lit",
       "collection_group": "Forest",
       "eodash:mapProjection": {
@@ -52,6 +55,9 @@
       "type": "application/json",
       "title": "GTIF Baltics"
     }
+  ],
+  "themes": [
+    "Lithuania"
   ],
   "subcode": "logging_capability_lit",
   "collection_group": "Forest",
@@ -90,6 +96,9 @@
   "summaries": {
     "subcode": [
       "logging_capability_lit"
+    ],
+    "themes": [
+      "Lithuania"
     ]
   }
 }

@@ -18,6 +18,9 @@
       "endpointtype": "COG source",
       "code": "ld_06_lt_raster",
       "id": "Lodging 06",
+      "themes": [
+        "Lithuania"
+      ],
       "subcode": "ld_06_lt_raster",
       "collection_group": "Crops",
       "eodash:mapProjection": {
@@ -52,6 +55,9 @@
       "type": "application/json",
       "title": "GTIF Baltics"
     }
+  ],
+  "themes": [
+    "Lithuania"
   ],
   "subcode": "ld_06_lt_raster",
   "collection_group": "Crops",
@@ -107,6 +113,9 @@
   "summaries": {
     "subcode": [
       "ld_06_lt_raster"
+    ],
+    "themes": [
+      "Lithuania"
     ]
   }
 }

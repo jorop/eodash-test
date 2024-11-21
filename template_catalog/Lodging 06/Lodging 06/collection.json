@@ -34,6 +34,9 @@
       "title": "Lodging 06"
     }
   ],
+  "themes": [
+    "Lithuania"
+  ],
   "subcode": "ld_06_lt_raster",
   "collection_group": "Crops",
   "eodash:mapProjection": {

@@ -295,6 +295,9 @@
       "title": "Soil Moisture 04 Lithuania medium"
     }
   ],
+  "themes": [
+    "Lithuania"
+  ],
   "subcode": "sm_04_lt_raster_medium",
   "collection_group": "Water",
   "proj:epsg": 3035,

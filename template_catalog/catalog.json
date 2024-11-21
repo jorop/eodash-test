@@ -74,6 +74,9 @@
       "title": "Logging Lithuania",
       "code": "logging_capability_lit",
       "id": "Logging Lithuania",
+      "themes": [
+        "Lithuania"
+      ],
       "subcode": "logging_capability_lit",
       "collection_group": "Forest",
       "eodash:mapProjection": {
@@ -89,6 +92,9 @@
       "code": "sm_lt_04_medium",
       "id": "Soil Moisture 04 Lithuania medium",
       "subcode": "sm_lt_04_medium",
+      "themes": [
+        "Lithuania"
+      ],
       "satellite": [
         "Satellitename"
       ],
@@ -108,6 +114,9 @@
       "title": "Lodging 06",
       "code": "ld_06_lt_raster",
       "id": "Lodging 06",
+      "themes": [
+        "Lithuania"
+      ],
       "subcode": "ld_06_lt_raster",
       "collection_group": "Crops",
       "eodash:mapProjection": {

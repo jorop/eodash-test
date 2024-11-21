@@ -18,6 +18,9 @@
       "endpointtype": "COG source",
       "code": "sm_04_lt_raster_medium",
       "id": "Soil Moisture medium",
+      "themes": [
+        "Lithuania"
+      ],
       "subcode": "sm_04_lt_raster_medium",
       "collection_group": "Water"
     },
@@ -29,6 +32,9 @@
       "endpointtype": "WMS_OverwriteTimes",
       "code": "sm_lt_04_parcels_wms_medium",
       "id": "Soil Moisture medium - parcels",
+      "themes": [
+        "Lithuania"
+      ],
       "tags": [
         "example tag"
       ],
@@ -119,6 +125,9 @@
     "subcode": [
       "sm_04_lt_raster_medium",
       "sm_lt_04_parcels_wms_medium"
+    ],
+    "themes": [
+      "Lithuania"
     ],
     "satellite": [
       "Satellitename"
