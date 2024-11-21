@@ -19,7 +19,7 @@
       "id": "Flooding Austria",
       "themes": [
         "Austria",
-        2024,
+        "2024",
         "September"
       ],
       "subcode": "flooding_capability_aut",
@@ -38,7 +38,7 @@
       "id": "Flooding Lithuania",
       "themes": [
         "Lithuania",
-        2024,
+        "2024",
         "April"
       ],
       "subcode": "flooding_capability",
@@ -57,7 +57,7 @@
       "id": "Lodging Lithuania",
       "themes": [
         "Lithuania",
-        2024,
+        "2024",
         "July"
       ],
       "subcode": "lodging_capability_lit",

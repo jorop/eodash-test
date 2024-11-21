@@ -20,7 +20,7 @@
       "id": "Lodging Lithuania",
       "themes": [
         "Lithuania",
-        2024,
+        "2024",
         "July"
       ],
       "subcode": "lodging_capability_lit",
@@ -60,7 +60,7 @@
   ],
   "themes": [
     "Lithuania",
-    2024,
+    "2024",
     "July"
   ],
   "subcode": "lodging_capability_lit",
@@ -102,7 +102,7 @@
       "lodging_capability_lit"
     ],
     "themes": [
-      2024,
+      "2024",
       "Lithuania",
       "July"
     ]

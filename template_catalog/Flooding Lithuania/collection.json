@@ -20,7 +20,7 @@
       "id": "Flooding Lithuania",
       "themes": [
         "Lithuania",
-        2024,
+        "2024",
         "April"
       ],
       "subcode": "flooding_capability",
@@ -60,7 +60,7 @@
   ],
   "themes": [
     "Lithuania",
-    2024,
+    "2024",
     "April"
   ],
   "subcode": "flooding_capability",
@@ -102,9 +102,9 @@
       "flooding_capability"
     ],
     "themes": [
-      2024,
-      "Lithuania",
-      "April"
+      "April",
+      "2024",
+      "Lithuania"
     ]
   },
   "assets": {
