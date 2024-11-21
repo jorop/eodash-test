@@ -57,6 +57,15 @@
     },
     {
       "rel": "item",
+      "href": "./Lodging 06/2024/2024-06-06T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-06-06T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
       "href": "./Lodging 06/2024/2024-04-07T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-04-07T00:00:00Z",
