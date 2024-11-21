@@ -5,7 +5,7 @@ Description: "##Interesting title"
 CollectionGroup: Water
 Themes:
   - Austria
-  - 2024
+  - "2024"
   - September
 MapProjection:
   name: 'EPSG:3035'

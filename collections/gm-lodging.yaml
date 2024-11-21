@@ -5,7 +5,7 @@ Description: ""
 CollectionGroup: Crops
 Themes:
   - Lithuania
-  - 2024
+  - "2024"
   - July
 MapProjection:
   name: 'EPSG:3035'

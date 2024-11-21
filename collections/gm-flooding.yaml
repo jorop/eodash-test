@@ -5,7 +5,7 @@ Description: "fooding.md"
 CollectionGroup: Water
 Themes:
   - Lithuania
-  - 2024
+  - "2024"
   - April
 MapProjection:
   name: 'EPSG:3035'
