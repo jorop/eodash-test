@@ -6,7 +6,7 @@ Themes:
   - water
 Resources:
   - Name: COG source
-    Style: https://api.npoint.io/85c43058073e5051f880
+    Style: https://api.npoint.io/0d2c4c55b44def67afc9
     DataProjection: 3035
     Bbox: [22.64524,54.94676,23.02416,55.30585]
     TimeEntries:
