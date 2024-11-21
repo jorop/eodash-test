@@ -19,7 +19,9 @@
       "code": "lodging_capability_lit",
       "id": "Lodging Lithuania",
       "themes": [
-        "Crops"
+        "Lithuania",
+        2024,
+        "July"
       ],
       "subcode": "lodging_capability_lit",
       "collection_group": "Crops",
@@ -57,7 +59,9 @@
     }
   ],
   "themes": [
-    "Crops"
+    "Lithuania",
+    2024,
+    "July"
   ],
   "subcode": "lodging_capability_lit",
   "collection_group": "Crops",
@@ -98,7 +102,9 @@
       "lodging_capability_lit"
     ],
     "themes": [
-      "Crops"
+      2024,
+      "Lithuania",
+      "July"
     ]
   }
 }

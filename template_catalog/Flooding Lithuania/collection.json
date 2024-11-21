@@ -19,7 +19,9 @@
       "code": "flooding_capability",
       "id": "Flooding Lithuania",
       "themes": [
-        "water"
+        "Lithuania",
+        2024,
+        "April"
       ],
       "subcode": "flooding_capability",
       "collection_group": "Water",
@@ -57,7 +59,9 @@
     }
   ],
   "themes": [
-    "water"
+    "Lithuania",
+    2024,
+    "April"
   ],
   "subcode": "flooding_capability",
   "collection_group": "Water",
@@ -98,7 +102,9 @@
       "flooding_capability"
     ],
     "themes": [
-      "water"
+      2024,
+      "Lithuania",
+      "April"
     ]
   },
   "assets": {

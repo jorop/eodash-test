@@ -34,9 +34,6 @@
       "title": "Lodging 06"
     }
   ],
-  "themes": [
-    "Crops Lodging"
-  ],
   "subcode": "ld_06_lt_raster",
   "collection_group": "Crops",
   "eodash:mapProjection": {

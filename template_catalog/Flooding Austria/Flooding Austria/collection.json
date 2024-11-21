@@ -35,7 +35,9 @@
     }
   ],
   "themes": [
-    "water"
+    "Austria",
+    2024,
+    "September"
   ],
   "subcode": "flooding_capability_aut",
   "collection_group": "Water",

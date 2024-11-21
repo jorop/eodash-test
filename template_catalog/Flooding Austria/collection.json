@@ -19,7 +19,9 @@
       "code": "flooding_capability_aut",
       "id": "Flooding Austria",
       "themes": [
-        "water"
+        "Austria",
+        2024,
+        "September"
       ],
       "subcode": "flooding_capability_aut",
       "collection_group": "Water",
@@ -57,7 +59,9 @@
     }
   ],
   "themes": [
-    "water"
+    "Austria",
+    2024,
+    "September"
   ],
   "subcode": "flooding_capability_aut",
   "collection_group": "Water",
@@ -98,7 +102,9 @@
       "flooding_capability_aut"
     ],
     "themes": [
-      "water"
+      2024,
+      "Austria",
+      "September"
     ]
   }
 }

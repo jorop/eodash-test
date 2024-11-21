@@ -34,9 +34,6 @@
       "title": "Logging Lithuania"
     }
   ],
-  "themes": [
-    "Forest"
-  ],
   "subcode": "logging_capability_lit",
   "collection_group": "Forest",
   "eodash:mapProjection": {

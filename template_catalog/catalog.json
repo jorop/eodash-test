@@ -18,7 +18,9 @@
       "code": "flooding_capability_aut",
       "id": "Flooding Austria",
       "themes": [
-        "water"
+        "Austria",
+        2024,
+        "September"
       ],
       "subcode": "flooding_capability_aut",
       "collection_group": "Water",
@@ -35,7 +37,9 @@
       "code": "flooding_capability",
       "id": "Flooding Lithuania",
       "themes": [
-        "water"
+        "Lithuania",
+        2024,
+        "April"
       ],
       "subcode": "flooding_capability",
       "collection_group": "Water",
@@ -52,7 +56,9 @@
       "code": "lodging_capability_lit",
       "id": "Lodging Lithuania",
       "themes": [
-        "Crops"
+        "Lithuania",
+        2024,
+        "July"
       ],
       "subcode": "lodging_capability_lit",
       "collection_group": "Crops",
@@ -68,9 +74,6 @@
       "title": "Logging Lithuania",
       "code": "logging_capability_lit",
       "id": "Logging Lithuania",
-      "themes": [
-        "Forest"
-      ],
       "subcode": "logging_capability_lit",
       "collection_group": "Forest",
       "eodash:mapProjection": {
@@ -86,9 +89,6 @@
       "code": "sm_lt_04_medium",
       "id": "Soil Moisture 04 Lithuania medium",
       "subcode": "sm_lt_04_medium",
-      "themes": [
-        "water"
-      ],
       "satellite": [
         "Satellitename"
       ],
@@ -108,9 +108,6 @@
       "title": "Lodging 06",
       "code": "ld_06_lt_raster",
       "id": "Lodging 06",
-      "themes": [
-        "Crops Lodging"
-      ],
       "subcode": "ld_06_lt_raster",
       "collection_group": "Crops",
       "eodash:mapProjection": {
