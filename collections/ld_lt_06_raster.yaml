@@ -20,7 +20,7 @@ Resources:
   - Name: COG source
     Style: https://api.npoint.io/24b27d80708983a0298d
     DataProjection: 3035
-    Bbox: [22.64524,54.94676,23.02416,55.30585]
+    Bbox: [21.0, 53.8, 26.9, 56.5]
     TimeEntries:
       - Time: "2024-06-01"
         Assets:

@@ -13,7 +13,7 @@ MapProjection:
 Legend: collections/legend_flooding.png
 Resources:
   - Name: COG source
-    Bbox: [22.64524,54.94676,23.02416,55.30585]
+    Bbox: [21.0, 53.8, 26.9, 56.5]
     Style: https://api.npoint.io/85c43058073e5051f880
     TimeEntries:
       - Time: "20240401"
